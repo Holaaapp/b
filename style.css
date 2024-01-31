@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    margin-top: 10px;
+}
+
+#btn2{
+    margin: auto;
+}
+
+#btn3{
+    margin: auto;
+}
+
+#btn4{
+margin: auto;
+ }
+
+#btn5{
+    margin: auto;
+    margin-top: 10px;
+}
+
+#btn1{
+    display: grid;
+    margin: auto; 
+    margin-bottom: 15px;
+}
+
+#input{
+    display: grid;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+#respuesta{
+    color: red;
+}
+
+video{
+    margin-top: 10px;
+margin: auto;
+}
+
+button{
+    margin: auto;
+}
